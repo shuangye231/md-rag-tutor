@@ -25,8 +25,8 @@
 在 GitHub 页面选择 **Code → Download ZIP** 并解压，或者执行：
 
 ```powershell
-git clone https://github.com/shuangye231/作品集.git
-cd 作品集
+git clone https://github.com/shuangye231/portfolio.git
+cd portfolio
 ```
 
 ### 3. 配置并启动
